@@ -36,38 +36,92 @@
          <guid isPermaLink="false">34849e38-9b2f-4a97-b946-1f2b050a2d0c</guid>
          <pubDate>Tue, 12 September 2023 13:00:00 +0200</pubDate>
          <author>Knightec Dewire</author>
-         <enclosure url="https://d3escsfxfzn25u.cloudfront.net/000-knights-on-wires-trailer.mp3" length="1445701" type="audio/mpeg" />
+         <enclosure url="https://d3escsfxfzn25u.cloudfront.net/000-knights-on-wires-trailer-v2.mp3" length="1446677" type="audio/mpeg" />
          <itunes:episodeType>full</itunes:episodeType>
          <itunes:author>Knightec Dewire</itunes:author>
          <itunes:subtitle>New podcast trailer!
 </itunes:subtitle>
-         <itunes:duration>00:36</itunes:duration>
+         <itunes:duration>00:34</itunes:duration>
          <itunes:explicit>no</itunes:explicit>
          <itunes:image href="https://knightsonwires.knightec.se/assets/images/episode-pics/000-cover.jpg " />
          <description>New podcast trailer!
 
 
 
+Welcome!
+
+Hi there!
+
+My name is Peter van der Meulen and together with Johan Deckmar
+and Robin Rosenberg we’re starting a podcast.
+
+We’re all software developers at Knightec in Sweden and in the coming few
+months we’d love you take you with us on our coding adventures.
+
+Every other week we’ll try to tune in to talk about what we’ve been
+busy with and what challenges we faced or are facing.
+
+We are recording our first session in the next few days, so stay tuned for
+Episode 1!
+
+Look for “Knighs on wires” wherever you listen to podcasts!
+
 Links
 
-Knights on wires Pod website
+Knights on wires website
 </description>
          <itunes:keywords>trailer</itunes:keywords>
          <content:encoded><![CDATA[<p>New podcast trailer!</p>
 
 <!--more-->
 
+<h2 id="welcome">Welcome!</h2>
+
+<p>Hi there!</p>
+
+<p>My name is Peter van der Meulen and together with Johan Deckmar
+and Robin Rosenberg we’re starting a podcast.</p>
+
+<p>We’re all software developers at Knightec in Sweden and in the coming few
+months we’d love you take you with us on our coding adventures.</p>
+
+<p>Every other week we’ll try to tune in to talk about what we’ve been
+busy with and what challenges we faced or are facing.</p>
+
+<p>We are recording our first session in the next few days, so stay tuned for
+Episode 1!</p>
+
+<p>Look for “Knighs on wires” wherever you listen to podcasts!</p>
+
 <h2 id="links">Links</h2>
 
-<p><a href="https://knightsonwires.knightec.se">Knights on wires Pod website</a></p>
+<p><a href="https://knightsonwires.knightec.se">Knights on wires website</a></p>
 ]]></content:encoded>
          <itunes:summary><![CDATA[<p>New podcast trailer!</p>
 
 <!--more-->
 
+<h2 id="welcome">Welcome!</h2>
+
+<p>Hi there!</p>
+
+<p>My name is Peter van der Meulen and together with Johan Deckmar
+and Robin Rosenberg we’re starting a podcast.</p>
+
+<p>We’re all software developers at Knightec in Sweden and in the coming few
+months we’d love you take you with us on our coding adventures.</p>
+
+<p>Every other week we’ll try to tune in to talk about what we’ve been
+busy with and what challenges we faced or are facing.</p>
+
+<p>We are recording our first session in the next few days, so stay tuned for
+Episode 1!</p>
+
+<p>Look for “Knighs on wires” wherever you listen to podcasts!</p>
+
 <h2 id="links">Links</h2>
 
-<p><a href="https://knightsonwires.knightec.se">Knights on wires Pod website</a></p>
+<p><a href="https://knightsonwires.knightec.se">Knights on wires website</a></p>
 ]]></itunes:summary>
       </item>
       
