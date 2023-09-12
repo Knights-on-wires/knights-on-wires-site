@@ -1,1 +1,76 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-12T12:03:09+02:00</updated><id>/feed.xml</id><title type="html">Knights on Wires</title><subtitle>In knights on Wires Peter, Johan and Robin (and other visiting friends) talk about what they&apos;re busy with. Tune in to hear about the ins and outs of JavaScript, Java, Ruby, Postgres, AWS, Azure and maybe even the occasional CNC machine!</subtitle></feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fireside="http://fireside.fm/modules/rss/fireside" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0" encoding="UTF-8">
+   <channel>
+      
+        <title>På Tråden</title>
+        <link>https://knightsonwires.knightec.se</link>
+        <atom:link href="https://knightsonwires.knightec.se/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>2023-09-12 13:00:00 +0200</pubDate>
+        <description>In knights on Wires Peter, Johan and Robin (and other visiting friends) talk about what they're busy with. Tune in to hear about the ins and outs of JavaScript, Java, Ruby, Postgres, AWS, Azure and maybe even the occasional CNC machine!</description>
+        <language>sv</language>
+        <itunes:type>episodic</itunes:type>
+        <itunes:subtitle />
+        <itunes:author>Knightec Dewire</itunes:author>
+        <itunes:summary>In knights on Wires Peter, Johan and Robin (and other visiting friends) talk about what they're busy with. Tune in to hear about the ins and outs of JavaScript, Java, Ruby, Postgres, AWS, Azure and maybe even the occasional CNC machine!</itunes:summary>
+        <itunes:image href="https://knightsonwires.knightec.se/assets/images/albumart.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:keywords>web development,ruby,javascript,rails,back-end,front-end,app development,graphql,developer,english</itunes:keywords>
+        <copyright>&#xA9; 2021 Knightec AB</copyright>
+        <itunes:owner>
+           <itunes:name>Knightec Dewire</itunes:name>
+           <itunes:email>pa.traden@knightec.se</itunes:email>
+        </itunes:owner>
+        <podcast:locked email="pa.traden@knightec.se">yes</podcast:locked>
+        <itunes:category text="Technology" />
+        <itunes:category text="News">
+           <itunes:category text="Tech News" />
+        </itunes:category>
+      
+
+      
+      <item>
+         <title>000: Knights on Wires Pod Trailer</title>
+         <itunes:episode>000</itunes:episode>
+         <link>https://knightsonwires.knightec.se/podcast/2023/09/12/pod-trailer.html</link>
+         <atom:link href="https://knightsonwires.knightec.se/feed.xml" rel="self" type="application/rss+xml"/>
+         <guid isPermaLink="false">34849e38-9b2f-4a97-b946-1f2b050a2d0c</guid>
+         <pubDate>Tue, 12 September 2023 13:00:00 +0200</pubDate>
+         <author>Knightec Dewire</author>
+         <enclosure url="https://d3escsfxfzn25u.cloudfront.net/000-knights-on-wires-trailer.mp3" length="1445701" type="audio/mpeg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <itunes:author>Knightec Dewire</itunes:author>
+         <itunes:subtitle>New podcast trailer!
+</itunes:subtitle>
+         <itunes:duration>00:36</itunes:duration>
+         <itunes:explicit>no</itunes:explicit>
+         <itunes:image href="https://knightsonwires.knightec.se/assets/images/episode-pics/000-cover.jpg " />
+         <description>New podcast trailer!
+
+
+
+Länk till den nya podden
+
+Knights on wires Pod
+</description>
+         <itunes:keywords>trailer</itunes:keywords>
+         <content:encoded><![CDATA[<p>New podcast trailer!</p>
+
+<!--more-->
+
+<h2 id="länk-till-den-nya-podden">Länk till den nya podden</h2>
+
+<p><a href="https://knightsonwires.knightec.se">Knights on wires Pod</a></p>
+]]></content:encoded>
+         <itunes:summary><![CDATA[<p>New podcast trailer!</p>
+
+<!--more-->
+
+<h2 id="länk-till-den-nya-podden">Länk till den nya podden</h2>
+
+<p><a href="https://knightsonwires.knightec.se">Knights on wires Pod</a></p>
+]]></itunes:summary>
+      </item>
+      
+
+   </channel>
+</rss>
