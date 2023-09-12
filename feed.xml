@@ -2,7 +2,7 @@
 <rss xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fireside="http://fireside.fm/modules/rss/fireside" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0" encoding="UTF-8">
    <channel>
       
-        <title>På Tråden</title>
+        <title>Knights on Wires</title>
         <link>https://knightsonwires.knightec.se</link>
         <atom:link href="https://knightsonwires.knightec.se/feed.xml" rel="self" type="application/rss+xml"/>
         <pubDate>2023-09-12 13:00:00 +0200</pubDate>
