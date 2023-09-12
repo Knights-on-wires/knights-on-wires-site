@@ -30,7 +30,7 @@
       
       <item>
          <title>000: Knights on Wires Pod Trailer</title>
-         <itunes:episode>000</itunes:episode>
+         <itunes:episode>0</itunes:episode>
          <link>https://knightsonwires.knightec.se/podcast/2023/09/12/pod-trailer.html</link>
          <atom:link href="https://knightsonwires.knightec.se/feed.xml" rel="self" type="application/rss+xml"/>
          <guid isPermaLink="false">34849e38-9b2f-4a97-b946-1f2b050a2d0c</guid>
