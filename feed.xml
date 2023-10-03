@@ -5,7 +5,7 @@
         <title>Knights on Wires</title>
         <link>https://knightsonwires.knightec.se</link>
         <atom:link href="https://knightsonwires.knightec.se/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>2023-09-20 09:00:00 +0200</pubDate>
+        <pubDate>2023-10-03 18:00:00 +0200</pubDate>
         <description>In knights on Wires Peter, Johan and Robin (and other visiting friends) talk about what they're busy with. Tune in to hear about the ins and outs of JavaScript, Java, Ruby, Postgres, AWS, Azure and maybe even the occasional CNC machine!</description>
         <language>sv</language>
         <itunes:type>episodic</itunes:type>
@@ -216,6 +216,124 @@ Album art by Joel Olofsson.<br />
 This podcast is produced by folks working at Knightec, your strategic partner in product and service development. Learn more and contact us at <a href="https://knightec.se/">knightec.se/</a></p>
 
 <p>Questions or suggestions? <a href="https://knightsonwires.knightec.se/contact">contact us</a>!</p>
+]]></itunes:summary>
+      </item>
+      
+      <item>
+         <title>002: Snapshot Text Editors</title>
+         <itunes:episode>2</itunes:episode>
+         <link>https://knightsonwires.knightec.se/podcast/2023/10/03/snapshot-text-editors.html</link>
+         <atom:link href="https://knightsonwires.knightec.se/feed.xml" rel="self" type="application/rss+xml"/>
+         <guid isPermaLink="false">64653724-16d0-48e4-b3a2-d11c5ad75046</guid>
+         <pubDate>Tue, 03 October 2023 18:00:00 +0200</pubDate>
+         <author>Knightec Dewire</author>
+         <enclosure url="https://d3escsfxfzn25u.cloudfront.net/knights_on_wires/002-snapshot-text-editors.mp3" length="110197472" type="audio/mpeg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <itunes:author>Knightec Dewire</itunes:author>
+         <itunes:subtitle>Live from Louvre (one of Knightec’s meeting rooms in Sundvall, Sweden) and the Stockholm Office; Peter, Johan and Robin discuss AI for business, CDK snapshots and the landscape of WYSIWYG Text editors.
+</itunes:subtitle>
+         <itunes:duration>45:55</itunes:duration>
+         <itunes:explicit>no</itunes:explicit>
+         <itunes:image href="https://knightsonwires.knightec.se/assets/images/episode-pics/002-cover.jpg " />
+         <description>Live from Louvre (one of Knightec’s meeting rooms in Sundvall, Sweden) and the Stockholm Office; Peter, Johan and Robin discuss AI for business, CDK snapshots and the landscape of WYSIWYG Text editors.
+
+
+
+Links
+
+
+  Knights on wires website
+  ChatGPT
+  Cloud Formation Templates
+  Syrupy snapshots
+  Multi modal Large language models on Azure
+  Digital self-management
+  Editor.js
+  Trix editor
+  Slate Editor
+  Draft.jS
+  CKEditor5
+  TinyMCE
+  Contenteditable API
+  Count meta-argument in Terraform
+
+
+Special thanks
+
+Theme music remixed from tunes by Alexi Action
+and TuesdayNight.
+Mixing, editing and album art by Peter vd Meulen
+
+This podcast is produced by folks working at Knightec, your strategic partner in product and service development. Learn more and contact us at knightec.se/
+
+Questions or suggestions for out podcast? contact us!
+</description>
+         <itunes:keywords>snapshots,terraform,infrastructure,cdk,wysiwyg,text editors</itunes:keywords>
+         <content:encoded><![CDATA[<p>Live from Louvre (one of Knightec’s meeting rooms in Sundvall, Sweden) and the Stockholm Office; Peter, Johan and Robin discuss AI for business, CDK snapshots and the landscape of WYSIWYG Text editors.</p>
+
+<!--more-->
+
+<h2 id="links">Links</h2>
+
+<ul>
+  <li><a href="https://knightsonwires.knightec.se">Knights on wires website</a></li>
+  <li><a href="https://chat.openai.com">ChatGPT</a></li>
+  <li><a href="https://aws.amazon.com/cloudformation/resources/templates/">Cloud Formation Templates</a></li>
+  <li><a href="https://github.com/tophat/syrupy">Syrupy snapshots</a></li>
+  <li><a href="https://azure.microsoft.com/en-us/blog/chatgpt-is-now-available-in-azure-openai-service/">Multi modal Large language models on Azure</a></li>
+  <li><a href="https://www.forbes.com/sites/stevedenning/2023/06/12/how-world-domination-is-within-teslas-grasp">Digital self-management</a></li>
+  <li><a href="https://editorjs.io/">Editor.js</a></li>
+  <li><a href="https://trix-editor.org/">Trix editor</a></li>
+  <li><a href="https://www.slatejs.org">Slate Editor</a></li>
+  <li><a href="https://draftjs.org/">Draft.jS</a></li>
+  <li><a href="https://ckeditor.com/">CKEditor5</a></li>
+  <li><a href="https://www.tiny.cloud/">TinyMCE</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/contenteditable">Contenteditable API</a></li>
+  <li><a href="https://developer.hashicorp.com/terraform/language/meta-arguments/count">Count meta-argument in Terraform</a></li>
+</ul>
+
+<h2 id="special-thanks">Special thanks</h2>
+
+<p>Theme music remixed from tunes by <a href="https://www.instagram.com/alexiaction/">Alexi Action</a>
+and <a href="https://www.instagram.com/tues.day.ni.ght/">TuesdayNight</a>.<br />
+Mixing, editing and album art by Peter vd Meulen</p>
+
+<p>This podcast is produced by folks working at Knightec, your strategic partner in product and service development. Learn more and contact us at <a href="https://knightec.se/">knightec.se/</a></p>
+
+<p>Questions or suggestions for out podcast? <a href="https://knightsonwires.knightec.se/contact">contact us</a>!</p>
+]]></content:encoded>
+         <itunes:summary><![CDATA[<p>Live from Louvre (one of Knightec’s meeting rooms in Sundvall, Sweden) and the Stockholm Office; Peter, Johan and Robin discuss AI for business, CDK snapshots and the landscape of WYSIWYG Text editors.</p>
+
+<!--more-->
+
+<h2 id="links">Links</h2>
+
+<ul>
+  <li><a href="https://knightsonwires.knightec.se">Knights on wires website</a></li>
+  <li><a href="https://chat.openai.com">ChatGPT</a></li>
+  <li><a href="https://aws.amazon.com/cloudformation/resources/templates/">Cloud Formation Templates</a></li>
+  <li><a href="https://github.com/tophat/syrupy">Syrupy snapshots</a></li>
+  <li><a href="https://azure.microsoft.com/en-us/blog/chatgpt-is-now-available-in-azure-openai-service/">Multi modal Large language models on Azure</a></li>
+  <li><a href="https://www.forbes.com/sites/stevedenning/2023/06/12/how-world-domination-is-within-teslas-grasp">Digital self-management</a></li>
+  <li><a href="https://editorjs.io/">Editor.js</a></li>
+  <li><a href="https://trix-editor.org/">Trix editor</a></li>
+  <li><a href="https://www.slatejs.org">Slate Editor</a></li>
+  <li><a href="https://draftjs.org/">Draft.jS</a></li>
+  <li><a href="https://ckeditor.com/">CKEditor5</a></li>
+  <li><a href="https://www.tiny.cloud/">TinyMCE</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/contenteditable">Contenteditable API</a></li>
+  <li><a href="https://developer.hashicorp.com/terraform/language/meta-arguments/count">Count meta-argument in Terraform</a></li>
+</ul>
+
+<h2 id="special-thanks">Special thanks</h2>
+
+<p>Theme music remixed from tunes by <a href="https://www.instagram.com/alexiaction/">Alexi Action</a>
+and <a href="https://www.instagram.com/tues.day.ni.ght/">TuesdayNight</a>.<br />
+Mixing, editing and album art by Peter vd Meulen</p>
+
+<p>This podcast is produced by folks working at Knightec, your strategic partner in product and service development. Learn more and contact us at <a href="https://knightec.se/">knightec.se/</a></p>
+
+<p>Questions or suggestions for out podcast? <a href="https://knightsonwires.knightec.se/contact">contact us</a>!</p>
 ]]></itunes:summary>
       </item>
       
