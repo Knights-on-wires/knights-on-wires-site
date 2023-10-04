@@ -230,12 +230,12 @@ This podcast is produced by folks working at Knightec, your strategic partner in
          <enclosure url="https://d3escsfxfzn25u.cloudfront.net/knights_on_wires/002-snapshot-text-editors-1.mp3" length="110197472" type="audio/mpeg" />
          <itunes:episodeType>full</itunes:episodeType>
          <itunes:author>Knightec Dewire</itunes:author>
-         <itunes:subtitle>Live from Louvre (one of Knightec’s meeting rooms in Sundvall, Sweden) and the Stockholm Office; Peter, Johan and Robin discuss AI for business, CDK snapshots and the landscape of WYSIWYG Text editors.
+         <itunes:subtitle>Live from Louvre (one of Knightec’s meeting rooms in Sundvall, Sweden) and the Stockholm office; Peter, Johan and Robin discuss AI for business, CDK snapshots and the landscape of WYSIWYG Text editors.
 </itunes:subtitle>
          <itunes:duration>45:55</itunes:duration>
          <itunes:explicit>no</itunes:explicit>
-         <itunes:image href="https://knightsonwires.knightec.se/assets/images/episode-pics/002-cover.jpg " />
-         <description>Live from Louvre (one of Knightec’s meeting rooms in Sundvall, Sweden) and the Stockholm Office; Peter, Johan and Robin discuss AI for business, CDK snapshots and the landscape of WYSIWYG Text editors.
+         <itunes:image href="https://knightsonwires.knightec.se/assets/images/episode-pics/002-cover-edit.jpg " />
+         <description>Live from Louvre (one of Knightec’s meeting rooms in Sundvall, Sweden) and the Stockholm office; Peter, Johan and Robin discuss AI for business, CDK snapshots and the landscape of WYSIWYG Text editors.
 
 
 
@@ -248,6 +248,8 @@ Links
   Syrupy snapshots
   Multi modal Large language models on Azure
   Digital self-management
+  Atomic Design
+  Storybook component kits
   Editor.js
   Trix editor
   Slate Editor
@@ -269,7 +271,7 @@ This podcast is produced by folks working at Knightec, your strategic partner in
 Questions or suggestions for out podcast? contact us!
 </description>
          <itunes:keywords>snapshots,terraform,infrastructure,cdk,wysiwyg,text editors</itunes:keywords>
-         <content:encoded><![CDATA[<p>Live from Louvre (one of Knightec’s meeting rooms in Sundvall, Sweden) and the Stockholm Office; Peter, Johan and Robin discuss AI for business, CDK snapshots and the landscape of WYSIWYG Text editors.</p>
+         <content:encoded><![CDATA[<p>Live from Louvre (one of Knightec’s meeting rooms in Sundvall, Sweden) and the Stockholm office; Peter, Johan and Robin discuss AI for business, CDK snapshots and the landscape of WYSIWYG Text editors.</p>
 
 <!--more-->
 
@@ -282,6 +284,8 @@ Questions or suggestions for out podcast? contact us!
   <li><a href="https://github.com/tophat/syrupy">Syrupy snapshots</a></li>
   <li><a href="https://azure.microsoft.com/en-us/blog/chatgpt-is-now-available-in-azure-openai-service/">Multi modal Large language models on Azure</a></li>
   <li><a href="https://www.forbes.com/sites/stevedenning/2023/06/12/how-world-domination-is-within-teslas-grasp">Digital self-management</a></li>
+  <li><a href="https://atomicdesign.bradfrost.com/chapter-2/">Atomic Design</a></li>
+  <li><a href="https://storybook.js.org/">Storybook component kits</a></li>
   <li><a href="https://editorjs.io/">Editor.js</a></li>
   <li><a href="https://trix-editor.org/">Trix editor</a></li>
   <li><a href="https://www.slatejs.org">Slate Editor</a></li>
@@ -302,7 +306,7 @@ Mixing, editing and album art by Peter vd Meulen</p>
 
 <p>Questions or suggestions for out podcast? <a href="https://knightsonwires.knightec.se/contact">contact us</a>!</p>
 ]]></content:encoded>
-         <itunes:summary><![CDATA[<p>Live from Louvre (one of Knightec’s meeting rooms in Sundvall, Sweden) and the Stockholm Office; Peter, Johan and Robin discuss AI for business, CDK snapshots and the landscape of WYSIWYG Text editors.</p>
+         <itunes:summary><![CDATA[<p>Live from Louvre (one of Knightec’s meeting rooms in Sundvall, Sweden) and the Stockholm office; Peter, Johan and Robin discuss AI for business, CDK snapshots and the landscape of WYSIWYG Text editors.</p>
 
 <!--more-->
 
@@ -315,6 +319,8 @@ Mixing, editing and album art by Peter vd Meulen</p>
   <li><a href="https://github.com/tophat/syrupy">Syrupy snapshots</a></li>
   <li><a href="https://azure.microsoft.com/en-us/blog/chatgpt-is-now-available-in-azure-openai-service/">Multi modal Large language models on Azure</a></li>
   <li><a href="https://www.forbes.com/sites/stevedenning/2023/06/12/how-world-domination-is-within-teslas-grasp">Digital self-management</a></li>
+  <li><a href="https://atomicdesign.bradfrost.com/chapter-2/">Atomic Design</a></li>
+  <li><a href="https://storybook.js.org/">Storybook component kits</a></li>
   <li><a href="https://editorjs.io/">Editor.js</a></li>
   <li><a href="https://trix-editor.org/">Trix editor</a></li>
   <li><a href="https://www.slatejs.org">Slate Editor</a></li>
