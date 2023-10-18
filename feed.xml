@@ -5,7 +5,7 @@
         <title>Knights on Wires</title>
         <link>https://knightsonwires.knightec.se</link>
         <atom:link href="https://knightsonwires.knightec.se/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>2023-10-03 18:00:00 +0200</pubDate>
+        <pubDate>2023-10-18 09:00:00 +0200</pubDate>
         <description>In knights on Wires Peter, Johan and Robin (and other visiting friends) talk about what they're busy with. Tune in to hear about the ins and outs of JavaScript, Java, Ruby, Postgres, AWS, Azure and maybe even the occasional CNC machine!</description>
         <language>sv</language>
         <itunes:type>episodic</itunes:type>
@@ -329,6 +329,126 @@ Mixing, editing and album art by Peter vd Meulen</p>
   <li><a href="https://www.tiny.cloud/">TinyMCE</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/contenteditable">Contenteditable API</a></li>
   <li><a href="https://developer.hashicorp.com/terraform/language/meta-arguments/count">Count meta-argument in Terraform</a></li>
+</ul>
+
+<h2 id="special-thanks">Special thanks</h2>
+
+<p>Theme music remixed from tunes by <a href="https://www.instagram.com/alexiaction/">Alexi Action</a>
+and <a href="https://www.instagram.com/tues.day.ni.ght/">TuesdayNight</a>.<br />
+Mixing, editing and album art by Peter vd Meulen</p>
+
+<p>This podcast is produced by folks working at Knightec, your strategic partner in product and service development. Learn more and contact us at <a href="https://knightec.se/">knightec.se/</a></p>
+
+<p>Questions or suggestions for out podcast? <a href="https://knightsonwires.knightec.se/contact">contact us</a>!</p>
+]]></itunes:summary>
+      </item>
+      
+      <item>
+         <title>003: Onboarding Pitfalls &amp; Rust</title>
+         <itunes:episode>3</itunes:episode>
+         <link>https://knightsonwires.knightec.se/podcast/2023/10/18/onboading-pitfalls-and-rust.html</link>
+         <atom:link href="https://knightsonwires.knightec.se/feed.xml" rel="self" type="application/rss+xml"/>
+         <guid isPermaLink="false">381f1a99-5afb-4478-a329-31a7774a2471</guid>
+         <pubDate>Wed, 18 October 2023 09:00:00 +0200</pubDate>
+         <author>Knightec Dewire</author>
+         <enclosure url="https://d3escsfxfzn25u.cloudfront.net/knights_on_wires/003-onboarding-pitfalls-and-rust.mp3" length="89231950" type="audio/mpeg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <itunes:author>Knightec Dewire</itunes:author>
+         <itunes:subtitle>In this week’s episode Johan dives into the pitfalls of large language models,
+Robin goes over his ways of onboarding people onto a team and Peter talks about
+his journey into the world of desktop applications with Tauri &amp; Svelte.
+</itunes:subtitle>
+         <itunes:duration>37:10</itunes:duration>
+         <itunes:explicit>no</itunes:explicit>
+         <itunes:image href="https://knightsonwires.knightec.se/assets/images/episode-pics/003-cover.jpg " />
+         <description>In this week’s episode Johan dives into the pitfalls of large language models,
+Robin goes over his ways of onboarding people onto a team and Peter talks about
+his journey into the world of desktop applications with Tauri &amp; Svelte.
+
+
+
+The audio quality of this episode is not the best, we’re doing our best
+to make sure we all got our microphones setup correctly next time!
+
+Links
+
+
+  Knights on wires website
+  ChatGPT
+  Mistral
+  WormGPT
+  VSCode
+  Neovim
+  Tauri
+  SvelteKit
+  SvelteKit in Tauri
+
+
+Special thanks
+
+Theme music remixed from tunes by Alexi Action
+and TuesdayNight.
+Mixing, editing and album art by Peter vd Meulen
+
+This podcast is produced by folks working at Knightec, your strategic partner in product and service development. Learn more and contact us at knightec.se/
+
+Questions or suggestions for out podcast? contact us!
+</description>
+         <itunes:keywords>onboarding,mistral,wormgpt,LLM,pitfalls,rust,tauri,svelte,sveltekit</itunes:keywords>
+         <content:encoded><![CDATA[<p>In this week’s episode Johan dives into the pitfalls of large language models,
+Robin goes over his ways of onboarding people onto a team and Peter talks about
+his journey into the world of desktop applications with Tauri &amp; Svelte.</p>
+
+<!--more-->
+
+<p>The audio quality of this episode is not the best, we’re doing our best
+to make sure we all got our microphones setup correctly next time!</p>
+
+<h2 id="links">Links</h2>
+
+<ul>
+  <li><a href="https://knightsonwires.knightec.se">Knights on wires website</a></li>
+  <li><a href="https://chat.openai.com">ChatGPT</a></li>
+  <li><a href="https://docs.mistral.ai/">Mistral</a></li>
+  <li><a href="https://slashnext.com/blog/wormgpt-the-generative-ai-tool-cybercriminals-are-using-to-launch-business-email-compromise-attacks/">WormGPT</a></li>
+  <li><a href="https://code.visualstudio.com/">VSCode</a></li>
+  <li><a href="https://neovim.io/">Neovim</a></li>
+  <li><a href="https://tauri.app/">Tauri</a></li>
+  <li><a href="https://kit.svelte.dev/">SvelteKit</a></li>
+  <li><a href="https://tauri.app/v1/guides/getting-started/setup/sveltekit/">SvelteKit in Tauri</a></li>
+</ul>
+
+<h2 id="special-thanks">Special thanks</h2>
+
+<p>Theme music remixed from tunes by <a href="https://www.instagram.com/alexiaction/">Alexi Action</a>
+and <a href="https://www.instagram.com/tues.day.ni.ght/">TuesdayNight</a>.<br />
+Mixing, editing and album art by Peter vd Meulen</p>
+
+<p>This podcast is produced by folks working at Knightec, your strategic partner in product and service development. Learn more and contact us at <a href="https://knightec.se/">knightec.se/</a></p>
+
+<p>Questions or suggestions for out podcast? <a href="https://knightsonwires.knightec.se/contact">contact us</a>!</p>
+]]></content:encoded>
+         <itunes:summary><![CDATA[<p>In this week’s episode Johan dives into the pitfalls of large language models,
+Robin goes over his ways of onboarding people onto a team and Peter talks about
+his journey into the world of desktop applications with Tauri &amp; Svelte.</p>
+
+<!--more-->
+
+<p>The audio quality of this episode is not the best, we’re doing our best
+to make sure we all got our microphones setup correctly next time!</p>
+
+<h2 id="links">Links</h2>
+
+<ul>
+  <li><a href="https://knightsonwires.knightec.se">Knights on wires website</a></li>
+  <li><a href="https://chat.openai.com">ChatGPT</a></li>
+  <li><a href="https://docs.mistral.ai/">Mistral</a></li>
+  <li><a href="https://slashnext.com/blog/wormgpt-the-generative-ai-tool-cybercriminals-are-using-to-launch-business-email-compromise-attacks/">WormGPT</a></li>
+  <li><a href="https://code.visualstudio.com/">VSCode</a></li>
+  <li><a href="https://neovim.io/">Neovim</a></li>
+  <li><a href="https://tauri.app/">Tauri</a></li>
+  <li><a href="https://kit.svelte.dev/">SvelteKit</a></li>
+  <li><a href="https://tauri.app/v1/guides/getting-started/setup/sveltekit/">SvelteKit in Tauri</a></li>
 </ul>
 
 <h2 id="special-thanks">Special thanks</h2>
